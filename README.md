@@ -4,5 +4,6 @@ I started this project because I wanted to try to use the LSTM model on a time s
 
 ## Results
 
-For predicting the test data, the model performed relatively well. The RMSE for `train_predict` was only 14.65. On the other hand, the RMSE for the `test_predict` was 16.12. As both of the RMSE values were close to each other, I was confident to move on.
+For predicting the test data, the model performed relatively well. The RMSE for `train_predict` was only 14.65. On the other hand, the RMSE for the `test_predict` was 16.12. As both of the RMSE values were close to each other, I was confident to move on. The orange and green on top of the original blue represent the predicted values.
 
+![TestDataGraph](https://github.com/Ae-bii/stock-price-prediction-using-lstm/blob/master/images/graph1.png)
